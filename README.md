@@ -37,5 +37,7 @@
 <a href="https://stackoverflow.com/users/14751055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14751055" height="30" width="40" /></a>
 <a href="https://medium.com/cantuncr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="cantuncr" height="30" width="40" /></a><a href="https://www.hackerrank.com/cantuncr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cantuncr" height="30" width="40" /></a>
 </p>
-
+  
+![Can-Tuncer-QR](https://lh3.googleusercontent.com/pw/AL9nZEWLQdjDnT0BYVCL2rDo7WJOIFb2y3bGzz-PMnME6qTmcH2eHVfxdqNT04o9HL7fNzG3pAQyxQezh59KjfSf2nh6BZQCJGYh5pvU-LW8nsdq1NUNYH9AshpVwk-iiriCDbnSo_iZvEaKlwK2LABBnv40lA=s914-no?authuser=0)
+  
 </div>
