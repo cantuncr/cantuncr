@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue.js.
 - 👀 I’m interested in front-end development with HTML, CSS, Bootstrap and JS frameworks. And also, I enjoy designing with Adobe Express, Canva and Figma.
 - 📫: cantuncr@gmail.com
-- 🌐: [cantuncr.github.io](https://cantuncr.github.io/can-tuncer.github.io/)
+- 🌐: [cantuncr.github.io](https://cantuncr.github.io/)
   
 
 <div align="center">
