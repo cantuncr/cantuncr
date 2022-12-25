@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/cantuncr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cantuncr" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14751055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14751055" height="30" width="40" /></a>
-<a href="https://medium.com/cantuncr" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="cantuncr" height="30" width="40" /></a><a href="https://www.hackerrank.com/cantuncr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cantuncr" height="30" width="40" /></a>
+<a href="https://medium.com/@cantuncr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="cantuncr" height="30" width="40" /></a><a href="https://www.hackerrank.com/cantuncr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cantuncr" height="30" width="40" /></a>
 </p>
   
 ![Can-Tuncer-QR](https://lh3.googleusercontent.com/pw/AL9nZEW56ndB2xF_aOeg6v_yN0WQKSfAux_nZa0aSd54TQQfxZKCCJpkMXqfNeMkZGCB88Q27hPDqPKQrgUZULCANDcQL15CML9T2v9aUEPR0wYS-2lqyRm5_WScP1gpbwwfzH7pFhVSbrWKUT8Q-7R3FBL0lw=s914-no?authuser=0)
