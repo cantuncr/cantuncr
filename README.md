@@ -11,7 +11,7 @@
 ![Can-TUNCER](https://lh3.googleusercontent.com/pw/AL9nZEVpbHaNjWtPE1jicqe5nSspIaGBEZczwBPhazXbZ7s2rJBUeLB-w17-IxilomnFP7KoXSX7TZiIg-Oyv1TZlv5LQniCswgEY6SavqrL-MQCTOU8g7ws5JoxgG6-aCLFAHj2TN1zsbnPEiPY5OqXWZAaJw=w1105-h799-no?authuser=0)
 
 
-<hr>
+![](https://i.imgur.com/waxVImv.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +29,7 @@
   
 ![Coding](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
-<hr>
+![](https://i.imgur.com/waxVImv.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
