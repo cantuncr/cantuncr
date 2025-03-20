@@ -1,14 +1,37 @@
+![Can-TUNCER](https://media.licdn.com/dms/image/v2/D4E16AQFNpnKAFCn8yQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724079016410?e=2147483647&v=beta&t=MUFD8tbq6B2IUoUDy1n8hH-xgrh1O-L8lm3c6_jNRgU)
+
 - 👋 Hi, I'm Can TUNCER.
-- 👨‍💻 I'm a front-end developer and a design enthusiast.
-- 🌱 I’m currently learning Vue.js.
-- 👀 I’m interested in front-end development with HTML, CSS, Bootstrap and JS frameworks. And also, I enjoy designing with Adobe Express, Canva and Figma.
-- 📫: cantuncr@gmail.com
-- 🌐: [cantuncr.github.io](https://cantuncr.github.io/)
+- 👨‍💻 I'm a multidisciplinary software developer specializing in QA testing.
+- 🌱 I run my own software firm, CTSS.
+- 👀 I’m currently working on our project, AdParcel. (Spoiler alert: The advertising world is about to be revolutionized!)
+- 🌐 [My Website](https://cantuncr.github.io/)
+- 📫 [Contact Me](mailto:cantuncr@gmail.com)
+- ⬆️ And if you want to change your career or enter the IT sector from scratch. Contact us to get detailed information about our 6-month Q&A Bootcamp.
+
+- 🎙️ **Listen to my podcast on Spotify and Apple Podcast:**  
+ 
+[![Spotify Show](https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/f7/c2/aef7c2b1-fe0d-1fdb-dd4c-4f93ebe0de3a/mza_12800166198921440383.jpg/120x120bb.webp)](https://open.spotify.com/show/0jLBnYYl9r2v9BQrmjVDeU)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0jLBnYYl9r2v9BQrmjVDeU" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
   
+CTSS Ecosystem – a dynamic and innovative platform that brings together diverse projects and initiatives, all focused on pushing the boundaries of technology and creating impactful experiences. We are passionate about providing cutting-edge solutions, empowering individuals, and shaping the future of tech.
+
+From CTSS Academy, where we train the next generation of software testers, to the ProjectCodePink initiative, dedicated to empowering women in tech, we are committed to making a difference in the industry.
+
+We also offer exciting opportunities through CTSS Creators Hub, a space for entrepreneurs to bring their tech ideas to life, and MyLife@Weeks, a project aimed at digitizing personal stories and preserving memories in the digital age.
+
+On the tech side, we’re continuously evolving with CTSS AI Assist, an AI-powered tool designed to streamline business operations, and Adparcel, which redefines digital advertising by offering long-term, cost-effective ad spaces.
+
+We also engage in sharing knowledge and insights through our CTSS Academy Podcast, where we dive into software testing, software development, and career opportunities in tech, offering guidance to the community.
+
+Lastly, we are passionate about making technology accessible to everyone, from the CTSS Academy Kids program, nurturing the next generation of coders, to "çöpçatan", a fun and innovative dating universe that brings gamified blind dates to life.
+
 
 <div align="center">
 
-![Can-TUNCER](https://lh3.googleusercontent.com/pw/AL9nZEVpbHaNjWtPE1jicqe5nSspIaGBEZczwBPhazXbZ7s2rJBUeLB-w17-IxilomnFP7KoXSX7TZiIg-Oyv1TZlv5LQniCswgEY6SavqrL-MQCTOU8g7ws5JoxgG6-aCLFAHj2TN1zsbnPEiPY5OqXWZAaJw=w1105-h799-no?authuser=0)
+
 
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -23,7 +46,16 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="vscode" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    </p>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    </p>
+
+Normally, I would like to put them all one by one visually like this, I know it looks more elegant, but let's go back to the old-school text: 
+
+
+
+Q&A Testing Skills:
+
+SDLC , STLC, Agile/Waterfall Methodology, Scrum/Agile Framework, BlackBox/WhiteBox/Static/Dynamic/Functional/Non-Functional/Smoke/Regression/Ad-
+hoc/Positive/Negative Testing, CI/CD Schedules, GIT, JIRA, Java, Selenium, TestNG, Maven, Cucumber, SQL, Postman
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cantuncr&show_icons=true&locale=en&layout=compact" alt="cantuncr" /></p>
   
@@ -40,10 +72,9 @@
 <h3 align="left">Support me:</h3>
 <p align="left">
 <a href="https://www.buymeacoffee.com/cantuncr" target="blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="cantuncr" height="200" width="400" /></a>
-<a href="http://patreon.com/cantuncr" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/patreon_logo_icon_170869.png" alt="14751055" height="200" width="400" /></a>
+
 
 </p>
-  
-![Can-Tuncer-QR](https://lh3.googleusercontent.com/pw/AL9nZEW56ndB2xF_aOeg6v_yN0WQKSfAux_nZa0aSd54TQQfxZKCCJpkMXqfNeMkZGCB88Q27hPDqPKQrgUZULCANDcQL15CML9T2v9aUEPR0wYS-2lqyRm5_WScP1gpbwwfzH7pFhVSbrWKUT8Q-7R3FBL0lw=s914-no?authuser=0)
+
   
 </div>
