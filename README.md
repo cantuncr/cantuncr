@@ -12,7 +12,6 @@
  
 [![Spotify Show](https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/f7/c2/aef7c2b1-fe0d-1fdb-dd4c-4f93ebe0de3a/mza_12800166198921440383.jpg/120x120bb.webp)](https://open.spotify.com/show/0jLBnYYl9r2v9BQrmjVDeU)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/0jLBnYYl9r2v9BQrmjVDeU" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
   
